@@ -1,0 +1,7 @@
+random_quote_generator/
+│
+├── quote_generator.py
+├── README.md
+├── .gitignore
+├── quotes_data.json
+└── history.json
